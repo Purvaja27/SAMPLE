@@ -1,1 +1,2 @@
 printf("SAMPLE");
+printf("HELLO");
