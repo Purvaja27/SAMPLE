@@ -1,1 +1,1 @@
-# SAMPLE
+printf("SAMPLE");
